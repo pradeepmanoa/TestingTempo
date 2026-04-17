@@ -1,0 +1,48 @@
+{
+  base: {
+    color: {
+      darkening: {
+        '4': {
+          value: '#0000000A',
+          type: 'color',
+          description: 'Black at 4%'
+        },
+        '8': {
+          value: '#00000014',
+          type: 'color',
+          description: 'Black at 8%'
+        },
+        '16': {
+          value: '#00000029',
+          type: 'color',
+          description: 'Black at 16%'
+        },
+        '32': {
+          value: '#00000052',
+          type: 'color',
+          description: 'Black at 32%'
+        },
+        '40': {
+          value: '#00000066',
+          type: 'color',
+          description: 'Black at 40%'
+        },
+        '50': {
+          value: '#00000080',
+          type: 'color',
+          description: 'Black at 50%'
+        },
+        '60': {
+          value: '#00000099',
+          type: 'color',
+          description: 'Black at 60%'
+        },
+        '75': {
+          value: '#000000BF',
+          type: 'color',
+          description: 'Black at 75%'
+        }
+      }
+    }
+  }
+}

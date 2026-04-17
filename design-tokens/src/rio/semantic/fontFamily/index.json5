@@ -1,0 +1,14 @@
+{
+  semantic: {
+    fontFamily: {
+      default: {
+        value: "{base.fontFamily.emberModernText}",
+        type: "fontFamily",
+      },
+      display: {
+        value: "{base.fontFamily.emberModernDisplay}",
+        type: "fontFamily",
+      },
+    },
+  },
+}

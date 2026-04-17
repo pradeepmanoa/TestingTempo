@@ -1,0 +1,10 @@
+{
+  semantic: {
+    fontWeight: {
+      medium: {
+        value: "{base.fontWeight.500}",
+        type: "fontWeight",
+      },
+    },
+  },
+}

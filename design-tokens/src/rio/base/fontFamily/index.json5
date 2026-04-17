@@ -1,0 +1,14 @@
+{
+  base: {
+    fontFamily: {
+      emberModernDisplay: {
+        value: "Amazon Ember Modern Display",
+        type: "fontFamily",
+      },
+      "emberModernText": {
+        value: "Amazon Ember Modern Text",
+        type: "fontFamily",
+      },
+    },
+  },
+}

@@ -1,0 +1,12 @@
+{
+  semantic: {
+    color: {
+      shadow: {
+        primary: { value: '{base.color.darkening.32}', type: 'color' },
+        secondary: { value: '{base.color.darkening.16}', type: 'color' },
+        tertiary: { value: '{base.color.darkening.8}', type: 'color' },
+        scrim: { value: '{base.color.darkening.60}', type: 'color' }
+      }
+    }
+  }
+}

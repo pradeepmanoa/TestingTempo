@@ -1,0 +1,28 @@
+{
+  semantic: {
+    color: {
+      light: {
+        highlight: {
+          primary: { value: '#FFFFFF14', type: 'color' },
+          secondary: { value: '#FFFFFF0A', type: 'color' }
+        }
+      },
+      dark: {
+        highlight: {
+          primary: { value: '#FFFFFF0A', type: 'color' },
+          secondary: { value: '#FFFFFF05', type: 'color' }
+        }
+      },
+      highlight: {
+        primary: {
+          value: '{semantic.color.light.highlight.primary}',
+          type: 'color'
+        },
+        secondary: {
+          value: '{semantic.color.light.highlight.secondary}',
+          type: 'color'
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  semantic: {
+    color: {
+      highlight: {
+        primary: { value: '#FFFFFF0A', type: 'color' },
+        secondary: { value: '#FFFFFF05', type: 'color' }
+      }
+    }
+  }
+}

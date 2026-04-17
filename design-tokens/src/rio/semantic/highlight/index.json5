@@ -1,0 +1,14 @@
+{
+  semantic: {
+    highlight: {
+      inset: {
+        value: 'inset 0px 1px 0px {semantic.color.highlight.primary}, inset 0px 0px 0px 1px {semantic.color.highlight.secondary}',
+        type: 'shadow'
+      },
+      outset: {
+        value: '0px 1px 0px {semantic.color.highlight.primary}, 0px 0px 0px 1px {semantic.color.highlight.secondary}',
+        type: 'shadow'
+      }
+    }
+  }
+}

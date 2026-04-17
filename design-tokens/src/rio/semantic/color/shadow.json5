@@ -1,0 +1,37 @@
+{
+  semantic: {
+    color: {
+      light: {
+        shadow: {
+          primary: { value: '{base.color.darkening.16}', type: 'color' },
+          secondary: { value: '{base.color.darkening.8}', type: 'color' },
+          tertiary: { value: '{base.color.darkening.4}', type: 'color' },
+          scrim: { value: '{base.color.darkening.60}', type: 'color' }
+        }
+      },
+      dark: {
+        shadow: {
+          primary: { value: '{base.color.darkening.32}', type: 'color' },
+          secondary: { value: '{base.color.darkening.16}', type: 'color' },
+          tertiary: { value: '{base.color.darkening.8}', type: 'color' },
+          scrim: { value: '{base.color.darkening.60}', type: 'color' }
+        }
+      },
+      shadow: {
+        primary: {
+          value: '{semantic.color.light.shadow.primary}',
+          type: 'color'
+        },
+        secondary: {
+          value: '{semantic.color.light.shadow.secondary}',
+          type: 'color'
+        },
+        tertiary: {
+          value: '{semantic.color.light.shadow.tertiary}',
+          type: 'color'
+        },
+        scrim: { value: '{semantic.color.light.shadow.scrim}', type: 'color' }
+      }
+    }
+  }
+}
