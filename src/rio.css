@@ -1,0 +1,45 @@
+/* Rio Design System Global Styles */
+
+/* CSS Variables from design tokens */
+@import '../design-tokens/dist/css/rio/index.css';
+
+/* Reset */
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: var(--rio-semantic-font-family-default, 'Amazon Ember Modern Text'), var(--rio-semantic-font-family-fallback, Arial), sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  overflow: auto;
+  background: #fff;
+  color: #0F1111;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+a, a:link, a:visited {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+img {
+  -webkit-user-drag: none;
+}

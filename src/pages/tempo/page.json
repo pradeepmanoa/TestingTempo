@@ -1,0 +1,20 @@
+{
+  "pageId": "tempo",
+  "name": "TEMPO",
+  "frames": [
+    {
+      "id": "frame",
+      "name": "TEMPO Tool",
+      "width": 430,
+      "height": 932,
+      "isCustomSize": true
+    },
+    {
+      "id": "dashboard",
+      "name": "TEMPO Dashboard",
+      "width": 1440,
+      "height": 900,
+      "isCustomSize": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pageId": "ses_273917345ffelERL3soSsAbfLI",
+  "name": "TEMPO",
+  "frames": [
+    {
+      "id": "frame",
+      "name": "TEMPO Tool",
+      "width": 1440,
+      "height": 887,
+      "isCustomSize": true,
+      "protozoa": {
+        "guid": "ea015ae1-bc20-45b1-a918-c41664a7dbb5",
+        "id": "1009610",
+        "prototypeUrl": "https://protozoa.amazon.dev/#/1009610/",
+        "formData": {
+          "title": "TEMPO Tool - Prototype",
+          "description": "Created via Stores Designer: https://stores-designer.harmony.a2z.com/projects/581ac7b1-7e98-4e64-8449-d1dd68c96d50/sessions/ses_273917345ffelERL3soSsAbfLI",
+          "platforms": [
+            "Desktop"
+          ],
+          "availability": "internal",
+          "viewPermissions": "team",
+          "editPermissions": "all"
+        }
+      },
+      "customSize": {
+        "width": 1440,
+        "height": 887
+      }
+    }
+  ]
+}
